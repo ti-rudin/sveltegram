@@ -9,7 +9,7 @@
 	/** @type {string}
 	 * Bot username
 	 * */
-	export let username = '';
+	export let username = 'RTverBot';
 
 	/** @type {string}
 	 * Widget size.
